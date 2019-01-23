@@ -1,42 +1,9 @@
 <application>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="11.3.0" last-modified="1544455539000" />
+      <version-cache version="8.5.0" last-modified="1505224288000" />
     </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/8.9.1/bin/node" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="ColorChooser.RecentColors" value="192-29-15-255,,,214-43-46-255,,,94-94-94-255,,,150-255-78-255,,,118-209-65-255,,,0-242-64-255,,,43-242-0-255,,,214-0-168-255,,,214-0-150-255,,,221-56-122-255,,,231-231-0-255,,,132-177-30-255,,,137-152-224-255,,,231-223-217-255" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.4226804" />
-    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.7311828" />
-    <property name="Copy.OpenInEditor" value="true" />
-    <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="ExpandRunDashboardTypesPanel" value="false" />
-    <property name="KEYMAP" value="select line&#10;pin&#10;pin t&#10;hide" />
-    <property name="LayoutCode.optimizeImports" value="true" />
-    <property name="LayoutCode.processChangedText" value="false" />
-    <property name="LayoutCode.rearrangeEntriesECMAScript 6" value="true" />
-    <property name="SearchEveryWhereHistory" value="1&#10;button-tooltip&#10;table(ng-hide=&quot;isLoading&quot; md-table ng-show=&quot;list&quot;)             thead(md-head md-order='query.order_by' md-on-reorder=&quot;changeOrder&quot;)                 th(md-column md-order-by=&quot;name&quot;) Name                 th(md-column md-order-by=&quot;desc&quot;) Description                 th(md-column)             tbody(md-body)                 tr(md-row, ng-repeat=&quot;item in list | pagination: query:'name' &quot;)                     // Name                     td(md-cell)                         h4 {{item.name}}                     // description                     td(md-cell)                         h4 {{item.description}}                     // Action Buttons                     td(md-cell)                         div(layout layout-align=&quot;end&quot;)                             md-button( ng-click='showConfirmationErase($event, item)')                                 md-icon( md-font-set='material-icons') delete                             md-button.md-raised.md-primary( ng-click='editItem(item)')                                 md-icon( md-font-set='material-icons') create             tfoot(md-foot ng-if=&quot;infos &amp;&amp; list&quot;)                 tr(md-row)                     td(md-cell)                         div(layout layout-align=&quot;start center&quot;)                             span.text-secondary Page:                             md-select.text-secondary(ng-model=&quot;query.page&quot; class=&quot;md-no-underline&quot; aria-label=&quot;select a page&quot;)                                 md-option(ng-value=&quot;page&quot; ng-repeat='page in getListPages()' ng-click=&quot;changePage(page)&quot;)                                     span.text-secondary {{ page }}                     td(md-cell)                         div(layout layout-align=&quot;end center&quot;)                             span.text-secondary Rows per page:                             md-select.text-secondary(ng-model=&quot;query.limit&quot; class=&quot;md-no-underline&quot; aria-label=&quot;select limit element&quot;)                                 md-option(ng-value=&quot;limitOption&quot; ng-repeat='limitOption in limitOptions' ng-click=&quot;changeLimit(limitOption)&quot;)                                     span.text-secondary {{ limitOption }}                     td(md-cell )                         div(layout layout-align=&quot;end center&quot;)                             span.text-secondary {{(query.page - 1)*query.limit + 1}} - {{ query.page *query.limit &gt; infos.total ? infos.total : query.page * query.limit }} to {{infos.total}}                             md-button(aria-label=&quot;previous page&quot; ng-click=&quot;previousPage()&quot; ng-disabled=&quot;query.page &lt; 2&quot;)                                 md-icon( md-font-set='material-icons') keyboard_arrow_left                             md-button(aria-label=&quot;next page&quot; ng-click=&quot;nextPage()&quot; ng-disabled=&quot;query.page &gt;= getListPages()&quot;)                                 md-icon( md-font-set='material-icons') keyboard_arrow_right&#10;FILL CAMP&#10;*" />
-    <property name="SettingsSearchHistory" value="book&#10;keymap&#10;live tem&#10;breadcr&#10;live template" />
-    <property name="SplitFileEditor.Proportion" value="0.5254065" />
-    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
-    <property name="WebStorm.enableSmartQuotes" value="true" />
-    <property name="WebStorm.initialConfigurationShown" value="true" />
-    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
-    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
-    <property name="evlsprt3.181" value="14" />
-    <property name="evlsprt3.182" value="12" />
-    <property name="evlsprt3.183" value="17" />
-    <property name="export.settings.path" value="$USER_HOME$/Documents/settingswebstorm.jar" />
-    <property name="file.gist.reindex.count" value="54328" />
-    <property name="fileTypeChangedCounter" value="3" />
-    <property name="ideavim.statistics.timestamp" value="1533573724204" />
-    <property name="js.rename.search.for.text.occurrences" value="false" />
-    <property name="js.rename.search.in.comments" value="true" />
-    <property name="lastTip" value="88" />
-    <property name="selected.color.option.type" value="BREADCRUMBS_CURRENT" />
-    <property name="settings.code.style.selected.tab.JavaScript" value="Spaces" />
-    <property name="ts.lib.d.ts.version" value="3.2.1" />
   </component>
   <component name="PyCodeInsightSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />

@@ -19,6 +19,7 @@
       <mapping ext="dashboard2" type="PLAIN_TEXT" />
       <mapping ext="err" type="PLAIN_TEXT" />
       <mapping ext="pip" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern="toErase" type="Python" />
     </extensionMap>
   </component>

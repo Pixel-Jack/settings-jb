@@ -29,7 +29,27 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="web" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/Documents/TextMe/textme-webapp/docker-compose.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/-2145795944" remote-root="/usr/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/-2006528493" remote-root="/usr/lib/python2.7/lib-dynload" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/1727478806" remote-root="/usr/lib/python2.7/dist-packages/PILcompat" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/1175615037" remote-root="/usr/lib/python2.7/dist-packages/newrelic-2.60.0.46" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/-1676341222" remote-root="/usr/lib/pymodules/python2.7" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
     </jdk>
     <jdk version="2">
       <name value="Python 2.7 (textMeVEnv2)" />
@@ -59,7 +79,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/TextMe/textme-webapp" />
     </jdk>
     <jdk version="2">
       <name value="Remote Python 2.7.3 Docker (textme-webapp_web:latest)" />
@@ -90,7 +110,23 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="textme-webapp_web:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/-2145795944" remote-root="/usr/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/-2006528493" remote-root="/usr/lib/python2.7/lib-dynload" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/1727478806" remote-root="/usr/lib/python2.7/dist-packages/PILcompat" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/1175615037" remote-root="/usr/lib/python2.7/dist-packages/newrelic-2.60.0.46" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/-1676341222" remote-root="/usr/lib/pymodules/python2.7" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
     </jdk>
     <jdk version="2">
       <name value="Python 3.7" />
@@ -144,7 +180,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/Feedis/feedis_backend" />
     </jdk>
     <jdk version="2">
       <name value="Remote Python 3.6.6 Docker Compose (django at [/Users/clempo/Documents/Feedis/Feedis_backend/docker-compose.yml])" />
@@ -169,7 +205,20 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="django" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/Documents/Feedis/Feedis_backend/docker-compose.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/1082798163/201545291" remote-root="/usr/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/1082798163/764490735" remote-root="/usr/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
     </jdk>
     <jdk version="2">
       <name value="Python 3.7 (tuto_sentdex_1_VEnv)" />
@@ -196,7 +245,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/Learning/tuto_sentdex_1" />
     </jdk>
     <jdk version="2">
       <name value="Python 3.7 (ScraptVEnv)" />
@@ -223,7 +272,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/Feedis/test/scrap" />
     </jdk>
     <jdk version="2">
       <name value="Python 3.7 (OpenVoicesVEnv)" />
@@ -251,7 +300,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/OpenVoices" />
     </jdk>
     <jdk version="2">
       <name value="Remote Python 3.6.6 Docker Compose (django at [/Users/clempo/Documents/webeeld/webeeld-api/docker-compose.yml])" />
@@ -276,7 +325,20 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="django" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/Documents/webeeld/webeeld-api/docker-compose.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/1397783077/201545291" remote-root="/usr/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/1397783077/764490735" remote-root="/usr/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
     </jdk>
   </component>
 </application>

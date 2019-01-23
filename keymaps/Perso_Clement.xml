@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="Perso_Clement" parent="Mac OS X 10.5+">
   <action id="$Delete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -8,6 +8,7 @@
   </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta a_with_grave" />
+    <keyboard-shortcut first-keystroke="meta 0" />
   </action>
   <action id="ActivateDebugToolWindow">
     <keyboard-shortcut first-keystroke="meta 5" />
@@ -15,6 +16,7 @@
   </action>
   <action id="ActivateDockerToolWindow">
     <keyboard-shortcut first-keystroke="meta dollar" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
   <action id="ActivateFavoritesToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
@@ -24,6 +26,7 @@
     <keyboard-shortcut first-keystroke="meta 3" />
     <keyboard-shortcut first-keystroke="meta exclamation_mark" />
   </action>
+  <action id="ActivateMessagesToolWindow" />
   <action id="ActivateMongoExplorerToolWindow">
     <keyboard-shortcut first-keystroke="meta right_parenthesis" />
   </action>
@@ -33,6 +36,7 @@
   </action>
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="meta exclamation_mark" />
+    <keyboard-shortcut first-keystroke="meta 8" />
   </action>
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
@@ -40,6 +44,7 @@
   </action>
   <action id="ActivateSciViewToolWindow">
     <keyboard-shortcut first-keystroke="meta circumflex" />
+    <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 7" />
@@ -51,11 +56,12 @@
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta quotedbl" />
+    <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
-    <keyboard-shortcut first-keystroke="meta c_with_cedilla" />
   </action>
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Remove">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -72,14 +78,20 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="Console.Oracle.DbmsOutput">
+    <keyboard-shortcut first-keystroke="meta f8" />
+  </action>
   <action id="Console.TableResult.DeleteColumns" />
+  <action id="DatabaseView.SqlGenerator" />
   <action id="Diff.SelectedChange" />
+  <action id="Diff.ShowDiff" />
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag">
     <mouse-shortcut keystroke="shift control meta alt button1" />
   </action>
+  <action id="EditorChooseLookupItemDot" />
   <action id="EditorCreateRectangularSelection">
     <mouse-shortcut keystroke="shift alt button1" />
   </action>
@@ -109,6 +121,7 @@
   </action>
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="meta less" />
+    <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="EditorToggleColumnMode">
     <keyboard-shortcut first-keystroke="meta alt comma" />
@@ -119,31 +132,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
   <action id="Generate">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="meta alt g" />
   </action>
-  <action id="GotoBookmark0">
-    <keyboard-shortcut first-keystroke="ctrl 0" />
-    <keyboard-shortcut first-keystroke="ctrl a_with_grave" />
-  </action>
-  <action id="GotoBookmark1">
-    <keyboard-shortcut first-keystroke="ctrl 1" />
-    <keyboard-shortcut first-keystroke="ctrl ampersand" />
-  </action>
-  <action id="GotoBookmark2">
-    <keyboard-shortcut first-keystroke="ctrl 2" />
-    <keyboard-shortcut first-keystroke="ctrl e_with_acute" />
-  </action>
-  <action id="GotoBookmark3">
-    <keyboard-shortcut first-keystroke="ctrl 3" />
-    <keyboard-shortcut first-keystroke="ctrl quotedbl" />
-  </action>
-  <action id="GotoBookmark4">
-    <keyboard-shortcut first-keystroke="ctrl 4" />
-    <keyboard-shortcut first-keystroke="ctrl quote" />
-  </action>
-  <action id="GotoBookmark5">
-    <keyboard-shortcut first-keystroke="ctrl 5" />
-    <keyboard-shortcut first-keystroke="ctrl left_parenthesis" />
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="meta o" />
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
@@ -152,14 +144,19 @@
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="GotoNextBookmark">
-    <keyboard-shortcut first-keystroke="ctrl colon" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="GotoPreviousBookmark">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="GotoTest" />
   <action id="Images.Editor.ToggleGrid" />
+  <action id="Images.ShowThumbnails" />
   <action id="Macro.warn_test">
     <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="NextProjectWindow" />
   <action id="NextTab">
@@ -175,6 +172,9 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl meta alt r" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
@@ -184,12 +184,13 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="SafeDelete" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="ShowBookmarks">
-    <keyboard-shortcut first-keystroke="ctrl equals" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta alt s" />
@@ -201,31 +202,10 @@
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="ToggleBookmark">
-    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+    <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
-  <action id="ToggleBookmark0">
-    <keyboard-shortcut first-keystroke="shift ctrl 0" />
-    <keyboard-shortcut first-keystroke="shift ctrl a_with_grave" />
-  </action>
-  <action id="ToggleBookmark1">
-    <keyboard-shortcut first-keystroke="shift ctrl 1" />
-    <keyboard-shortcut first-keystroke="shift ctrl ampersand" />
-  </action>
-  <action id="ToggleBookmark2">
-    <keyboard-shortcut first-keystroke="shift ctrl 2" />
-    <keyboard-shortcut first-keystroke="shift ctrl e_with_acute" />
-  </action>
-  <action id="ToggleBookmark3">
-    <keyboard-shortcut first-keystroke="shift ctrl 3" />
-    <keyboard-shortcut first-keystroke="shift ctrl quotedbl" />
-  </action>
-  <action id="ToggleBookmark4">
-    <keyboard-shortcut first-keystroke="shift ctrl 4" />
-    <keyboard-shortcut first-keystroke="shift ctrl quote" />
-  </action>
-  <action id="ToggleBookmark5">
-    <keyboard-shortcut first-keystroke="shift ctrl 5" />
-    <keyboard-shortcut first-keystroke="shift ctrl left_parenthesis" />
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
   </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift meta alt s" />
@@ -236,6 +216,13 @@
   </action>
   <action id="UsageView.Remove" />
   <action id="Vcs.Push" />
+  <action id="ViewBreakpoints">
+    <keyboard-shortcut first-keystroke="shift meta f8" />
+    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+  </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl meta alt v" />
+  </action>
   <action id="XDebugger.RemoveWatch">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />

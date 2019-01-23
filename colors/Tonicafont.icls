@@ -1,11 +1,11 @@
-<scheme name="Tonic copy" version="142" parent_scheme="Default">
+<scheme name="Tonicafont" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-03-16T10:30:35</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-04-27T16:13:43</property>
-    <property name="originalScheme">Tonic</property>
+    <property name="created">2019-01-23T17:13:35</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2018.2.3.0.0</property>
+    <property name="modified">2019-01-23T17:13:48</property>
+    <property name="originalScheme">Tonic copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -16,6 +16,7 @@
     <option name="CARET_COLOR" value="7b7d83" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b303b" />
+    <option name="DOCUMENTATION_COLOR" value="3c3f41" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
