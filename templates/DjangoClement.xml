@@ -1,0 +1,63 @@
+<templateSet group="DjangoClement">
+  <template name="lw*" value="&#10;logger.warning(&quot;*&quot; * 30)&#10;from pprint import pformat&#10;logger.warning(pformat($END$))&#10;logger.warning(&quot;*&quot; * 30)&#10;" description="Insert a warning with several stars" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="lw" value="&#10;from pprint import pformat&#10;logging.warning(pformat($END$))&#10;" description="Insert logging warning" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="lwn" value="&#10;logger.warning(&quot;$NUMBER$&quot; * 30)&#10;from pprint import pformat&#10;logger.warning(pformat($END$))&#10;logger.warning(&quot;$NUMBER$&quot; * 30)&#10;" description="Insert a warning with several number" toReformat="false" toShortenFQNames="true">
+    <variable name="NUMBER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="lg" value="logger.debug($MESS$)" description="Logging debug" toReformat="false" toShortenFQNames="true">
+    <variable name="MESS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="le" value="logger.error($MESS$)" description="Logging error" toReformat="false" toShortenFQNames="true">
+    <variable name="MESS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="ppr" value="pp.pprint($END$)" description="Pprint a value" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="li" value="logger.info($MESS$)" description="Logging info" toReformat="false" toShortenFQNames="true">
+    <variable name="MESS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="implog" value="import logging&#10;logger = logging.getLogger(__name__)" description="Import and def logger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="ldn" value="&#10;logger.debug(&quot;$NUMBER$&quot; * 30)&#10;from pprint import pformat&#10;logger.debug(pformat($END$))&#10;logger.debug(&quot;$NUMBER$&quot; * 30)&#10;" description="Insert a debug with several number" toReformat="false" toShortenFQNames="true">
+    <variable name="NUMBER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="skip" value="@skip(&quot;Temporary skip&quot;)" description="skip decorator temp" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="tlwn" value="logging.warning(&quot;$NUMBER$&quot; * 30)&#10;from pprint import pformat&#10;logging.warning(pformat($END$))&#10;logging.warning(&quot;$NUMBER$&quot; * 30)&#10;" description="Insert a warning with several number (with logging for test)" toReformat="false" toShortenFQNames="true">
+    <variable name="NUMBER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

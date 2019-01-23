@@ -1,0 +1,344 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Remote Python 2.7.3 Docker Compose (web at [/Users/clempo/Documents/TextMe/textme-webapp/docker-compose.yml])" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.3" />
+      <homePath value="docker-compose://[/Users/clempo/Documents/TextMe/textme-webapp/docker-compose.yml]:web/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/201544331" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/-2145795944" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/-2006528493" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/1727478806" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/1175615037" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/-1676341222" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1550833247" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="web" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/Documents/TextMe/textme-webapp/docker-compose.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/-2145795944" remote-root="/usr/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/-2006528493" remote-root="/usr/lib/python2.7/lib-dynload" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/1727478806" remote-root="/usr/lib/python2.7/dist-packages/PILcompat" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/1175615037" remote-root="/usr/lib/python2.7/dist-packages/newrelic-2.60.0.46" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-1550833247/-1676341222" remote-root="/usr/lib/pymodules/python2.7" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (textMeVEnv2)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/.virtualenvs/textMeVEnv2/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/textMeVEnv2/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/textMeVEnv2/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/textMeVEnv2/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/760103232" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/TextMe/textme-webapp" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.3 Docker (textme-webapp_web:latest)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.3" />
+      <homePath value="docker://textme-webapp_web:latest/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/201544331" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/-2145795944" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/-2006528493" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/1727478806" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/1175615037" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/-1676341222" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-842915366" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="textme-webapp_web:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/-2145795944" remote-root="/usr/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/-2006528493" remote-root="/usr/lib/python2.7/lib-dynload" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/1727478806" remote-root="/usr/lib/python2.7/dist-packages/PILcompat" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/1175615037" remote-root="/usr/lib/python2.7/dist-packages/newrelic-2.60.0.46" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/-842915366/-1676341222" remote-root="/usr/lib/pymodules/python2.7" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.1" />
+      <homePath value="/usr/local/bin/python3.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/local/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Documents/OpenVoices" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (feedisVEnv)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.0" />
+      <homePath value="$USER_HOME$/.virtualenvs/feedisVEnv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/feedisVEnv/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/feedisVEnv/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/feedisVEnv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-171827695" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/Feedis/feedis_backend" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.6 Docker Compose (django at [/Users/clempo/Documents/Feedis/Feedis_backend/docker-compose.yml])" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.6" />
+      <homePath value="docker-compose://[/Users/clempo/Documents/Feedis/Feedis_backend/docker-compose.yml]:django/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/1082798163/201545291" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/1082798163/764490735" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/1082798163" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="django" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/Documents/Feedis/Feedis_backend/docker-compose.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/1082798163/201545291" remote-root="/usr/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/1082798163/764490735" remote-root="/usr/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (tuto_sentdex_1_VEnv)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.0" />
+      <homePath value="$USER_HOME$/.virtualenvs/tuto_sentdex_1_VEnv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/tuto_sentdex_1_VEnv/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/tuto_sentdex_1_VEnv/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/tuto_sentdex_1_VEnv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/1165181998" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/Learning/tuto_sentdex_1" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (ScraptVEnv)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.0" />
+      <homePath value="$USER_HOME$/.virtualenvs/ScraptVEnv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/ScraptVEnv/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/ScraptVEnv/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/ScraptVEnv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/1900837142" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/Feedis/test/scrap" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (OpenVoicesVEnv)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.1" />
+      <homePath value="$USER_HOME$/.virtualenvs/OpenVoicesVEnv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/OpenVoicesVEnv/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/OpenVoicesVEnv/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/OpenVoicesVEnv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Documents/OpenVoices/pyAudioAnalysis" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1850841106" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/OpenVoices" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.6 Docker Compose (django at [/Users/clempo/Documents/webeeld/webeeld-api/docker-compose.yml])" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.6" />
+      <homePath value="docker-compose://[/Users/clempo/Documents/webeeld/webeeld-api/docker-compose.yml]:django/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/1397783077/201545291" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/1397783077/764490735" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/1397783077" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="django" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/Documents/webeeld/webeeld-api/docker-compose.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/1397783077/201545291" remote-root="/usr/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/1397783077/764490735" remote-root="/usr/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>

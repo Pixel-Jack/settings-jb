@@ -1,0 +1,44 @@
+<templateSet group="PersoClement">
+  <template name="%" value="&lt;%$ELEMENT$ %&gt;" description="Code ejs" toReformat="false" toShortenFQNames="true">
+    <variable name="ELEMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="impR" value="import React from 'react';" description="import React" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="newReactC" value="import React from 'react';&#10;&#10;class $NAME_CLASS$ extends React.Component {&#10;    render() {&#10;        return(&#10;            $RENDER$&#10;        );&#10;    }&#10;}&#10;&#10;export default $NAME_CLASS$;" description="create à new react component class" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME_CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RENDER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="constR" value="constructor(props) {&#10;    super(props);&#10;    $CODE$&#10;}" description="constructor ReactJS" toReformat="false" toShortenFQNames="true">
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="bindR" value="this.$NAME_FUNCTION$ = this.$NAME_FUNCTION$.bind(this);" description="bind to this reactJS" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME_FUNCTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="tsS" value="this.setState=($STATE$);" description="set State of a react component" toReformat="false" toShortenFQNames="true">
+    <variable name="STATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="pr" value="print $VALEUR$;" description="print" toReformat="false" toShortenFQNames="true">
+    <variable name="VALEUR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
