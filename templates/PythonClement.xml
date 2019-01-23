@@ -1,0 +1,13 @@
+<templateSet group="PythonClement">
+  <template name="l" value="print($DATA$)&#10;" description="print" toReformat="false" toShortenFQNames="true">
+    <variable name="DATA" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="warn" value="###################### WARNING TEST ###################### " description="Comment a modification for test" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

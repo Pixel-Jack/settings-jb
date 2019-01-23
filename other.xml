@@ -1,0 +1,63 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="8.5.0" last-modified="1505224288000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.9.1/bin/node" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/OpenVoicesVEnv/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/ScraptVEnv/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/feedisVEnv/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/textMeVEnv2/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/tuto_sentdex_1_VEnv/bin/python" value="false" />
+        <entry key="$USER_HOME$/virtualEnv/hqVEnv/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/virtualEnv/pmo/archSystemVEnv/bin/python" value="true" />
+        <entry key="$USER_HOME$/virtualEnv/pmo/pmoVEnv/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/virtualEnv/sncfVEnv/bin/python3.6" value="true" />
+        <entry key="$USER_HOME$/virtualEnv/textMeVEnv2/bin/python" value="false" />
+        <entry key="docker-compose://[/Users/clementponthieu/Documents/TextMe/textme-webapp/docker-compose.yml]:web/python" value="false" />
+        <entry key="docker-compose://[/Users/clempo/Documents/Feedis/Feedis_backend/docker-compose.yml]:django/python" value="false" />
+        <entry key="docker-compose://[/Users/clempo/Documents/TextMe/textme-webapp/docker-compose.yml]:web/python" value="false" />
+        <entry key="docker-compose://[/Users/clempo/Documents/webeeld/webeeld-api/docker-compose.yml]:django/python" value="false" />
+        <entry key="docker://textme-webapp_web:latest/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/OpenVoicesVEnv/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/ScraptVEnv/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/feedisVEnv/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/textMeVEnv2/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/tuto_sentdex_1_VEnv/bin/python" value="false" />
+        <entry key="$USER_HOME$/virtualEnv/textMeVEnv2/bin/python" value="false" />
+        <entry key="docker-compose://[/Users/clementponthieu/Documents/TextMe/textme-webapp/docker-compose.yml]:web/python" value="false" />
+        <entry key="docker-compose://[/Users/clempo/Documents/Feedis/Feedis_backend/docker-compose.yml]:django/python" value="false" />
+        <entry key="docker-compose://[/Users/clempo/Documents/TextMe/textme-webapp/docker-compose.yml]:web/python" value="false" />
+        <entry key="docker-compose://[/Users/clempo/Documents/webeeld/webeeld-api/docker-compose.yml]:django/python" value="false" />
+        <entry key="docker://textme-webapp_web:latest/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/OpenVoicesVEnv/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/ScraptVEnv/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/feedisVEnv/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/textMeVEnv2/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/tuto_sentdex_1_VEnv/bin/python" value="false" />
+        <entry key="$USER_HOME$/virtualEnv/textMeVEnv2/bin/python" value="false" />
+        <entry key="docker-compose://[/Users/clementponthieu/Documents/TextMe/textme-webapp/docker-compose.yml]:web/python" value="true" />
+        <entry key="docker-compose://[/Users/clempo/Documents/Feedis/Feedis_backend/docker-compose.yml]:django/python" value="false" />
+        <entry key="docker-compose://[/Users/clempo/Documents/TextMe/textme-webapp/docker-compose.yml]:web/python" value="true" />
+        <entry key="docker-compose://[/Users/clempo/Documents/webeeld/webeeld-api/docker-compose.yml]:django/python" value="false" />
+        <entry key="docker://textme-webapp_web:latest/python" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

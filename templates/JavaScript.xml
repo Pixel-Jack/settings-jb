@@ -1,0 +1,14 @@
+<templateSet group="JavaScript">
+  <template name="lg" value="console.log($MESS$);" description="Print in the console the message" toReformat="false" toShortenFQNames="true">
+    <variable name="MESS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="le" value="console.error($MESS$);" description="print in the console an error" toReformat="false" toShortenFQNames="true">
+    <variable name="MESS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

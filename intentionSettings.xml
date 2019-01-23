@@ -1,0 +1,13 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Boolean/Flip Comparison" />
+    <ignoreAction name="JavaScript/Boolean/Negate Comparison" />
+    <ignoreAction name="JavaScript/Control Flow/Add Braces" />
+    <ignoreAction name="Javascript/Language Injection/Annotate injection with comment" />
+    <ignoreAction name="RegExp/Check RegExp" />
+    <ignoreAction name="Language Injection/Edit Injected Fragment" />
+    <ignoreAction name="JavaScript/Conditional Operator/Flip If" />
+    <ignoreAction name="JavaScript/Control Flow/Remove Braces" />
+    <ignoreAction name="Language Injection/Inject language or reference" />
+  </component>
+</application>
