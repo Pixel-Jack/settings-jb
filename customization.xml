@@ -19,12 +19,6 @@
       <path value="Default with Cmd key" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Stop" is_action="true" action_type="-1" position="3">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="ToggleBookmark" is_action="true" action_type="-1" position="3">
       <path value="root" />
       <path value="Touch Bar" />
@@ -32,29 +26,11 @@
       <path value="Default with Cmd key" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RunnerActionsTouchbar" is_group="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RunConfiguration" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <path value="Default with Alt key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Console.Jdbc.Execute" is_action="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Back" is_action="true" action_type="1" position="0">
@@ -131,12 +107,6 @@
       <path value="Touch Bar" />
       <path value="Default" />
       <path value="Default with Alt+Cmd key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RunConfiguration" is_action="true" action_type="1" position="3">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Git.ResolveConflicts" is_action="true" action_type="1" position="3">
