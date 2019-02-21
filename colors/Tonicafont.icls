@@ -4,7 +4,7 @@
     <property name="created">2019-01-23T17:13:35</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2019-01-23T17:13:48</property>
+    <property name="modified">2019-02-21T08:14:53</property>
     <property name="originalScheme">Tonic copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -46,7 +46,7 @@
     <option name="SELECTION_BACKGROUND" value="4a586b" />
     <option name="SELECTION_FOREGROUND" value="ebf7ff" />
     <option name="TEARLINE_COLOR" value="303134" />
-    <option name="WHITESPACES" value="505050" />
+    <option name="WHITESPACES" value="ffffff" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -1184,14 +1184,12 @@
         <option name="FOREGROUND" value="8888c6" />
       </value>
     </option>
-    <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="7f57ff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="7a7a43" />
