@@ -8,7 +8,6 @@
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
-                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
@@ -20,7 +19,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-721095" />
+                              <option name="color" value="-9933286" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -76,7 +75,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value=".*0{30}$" />
+                      <option name="grepExpression" value=".*0{10}$" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
@@ -97,7 +96,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value=".*1{30}$" />
+                      <option name="grepExpression" value=".*1{10}$" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
@@ -118,7 +117,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value=".*2{30}$" />
+                      <option name="grepExpression" value=".*2{10}$" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
@@ -139,7 +138,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value=".*3{30}$" />
+                      <option name="grepExpression" value=".*3{10}$" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
@@ -160,7 +159,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value=".*4{30}$" />
+                      <option name="grepExpression" value=".*4{10}$" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
@@ -181,7 +180,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value=".*5{30}$" />
+                      <option name="grepExpression" value=".*5{10}$" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
@@ -306,6 +305,7 @@
             </list>
           </option>
           <option name="id" value="1522183231073" />
+          <option name="maxLengthToMatch" value="255" />
           <option name="name" value="default" />
         </Profile>
       </list>
