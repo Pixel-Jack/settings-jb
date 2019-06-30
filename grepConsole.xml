@@ -307,6 +307,7 @@
           <option name="id" value="1522183231073" />
           <option name="maxLengthToMatch" value="255" />
           <option name="name" value="default" />
+          <option name="showStatsInConsoleByDefault" value="true" />
         </Profile>
       </list>
     </option>
