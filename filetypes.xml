@@ -5,6 +5,7 @@
       <mapping pattern="authtoken_token.yaml" type="PLAIN_TEXT" />
       <mapping pattern="scheduled_campaign.yaml" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern="sites" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="ret" type="PLAIN_TEXT" />
       <mapping pattern=".venv" type="PLAIN_TEXT" />
@@ -13,7 +14,6 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa_2" type="PLAIN_TEXT" />
       <mapping pattern="batch_campaign_apps" type="PLAIN_TEXT" />
-      <mapping pattern="sites" type="PLAIN_TEXT" />
       <mapping pattern="LightInMotion" type="PLAIN_TEXT" />
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
@@ -31,6 +31,7 @@
       <mapping pattern="FeedisPagination" type="Python" />
       <mapping pattern="toErase" type="Python" />
       <mapping pattern="review_appstorereview" type="YAML" />
+      <mapping pattern="source_review_appstoreviewhistory" type="YAML" />
     </extensionMap>
   </component>
 </application>
