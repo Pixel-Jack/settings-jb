@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="venv" type="PLAIN_TEXT" />
       <mapping pattern="authtoken_token.yaml" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="LightInMotion" type="PLAIN_TEXT" />
