@@ -27,13 +27,13 @@
       <mapping ext="pip" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="err" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="toErase" type="Python" />
       <mapping pattern="FeedisPagination" type="Python" />
+      <removed_mapping ext="tsv" type="TSV" />
       <mapping pattern="source_review_appstoreviewhistory" type="YAML" />
       <mapping pattern="review_appstorereview" type="YAML" />
       <removed_mapping ext="groovy" approved="true" type="PLAIN_TEXT" />
