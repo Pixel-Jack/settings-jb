@@ -60,4 +60,11 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="sae" value="self.assertEqual($ARG1$, $ARG2$)&#10;$END$" description="Self assert Equal" toReformat="false" toShortenFQNames="true">
+    <variable name="ARG1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARG2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>

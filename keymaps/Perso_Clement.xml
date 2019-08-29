@@ -155,6 +155,9 @@
   <action id="Macro.warn_test">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
