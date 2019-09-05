@@ -67,4 +67,10 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="tlr" value="# Todo: To Remove&#10;import logging&#10;logging.warning(&quot;$NUMBER$&quot; * 30)&#10;from pprint import pformat&#10;logging.warning(pformat(response.status_code))&#10;logging.warning(pformat(response.data))&#10;logging.warning(&quot;$NUMBER$&quot; * 30)&#10;" description="Display response data for test purpose" toReformat="false" toShortenFQNames="true">
+    <variable name="NUMBER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
