@@ -4,6 +4,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="scripts.refresh_reviews.config" />
+        <option value="scripts_python.tests.test_refresh_reviews.feedis_sources" />
       </list>
     </option>
   </inspection_tool>
