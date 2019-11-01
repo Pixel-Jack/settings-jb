@@ -27,6 +27,7 @@
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="dashboard2" type="PLAIN_TEXT" />
       <mapping ext="err" type="PLAIN_TEXT" />
@@ -38,6 +39,7 @@
       <mapping pattern="toErase" type="Python" />
       <mapping pattern="FeedisPagination" type="Python" />
       <mapping pattern="__init__" type="Python" />
+      <removed_mapping ext="py" type="Python" />
       <removed_mapping ext="tsv" type="TSV" />
       <mapping pattern="review_appstorereview" type="YAML" />
       <mapping pattern="source_review_appstoreviewhistory" type="YAML" />
