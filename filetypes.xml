@@ -17,6 +17,7 @@
       <mapping pattern=".venv" type="PLAIN_TEXT" />
       <mapping pattern="batch_campaign_transit" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa_2" type="PLAIN_TEXT" />
+      <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="batch_campaign_apps" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
