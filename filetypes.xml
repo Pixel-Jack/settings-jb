@@ -43,6 +43,7 @@
       <mapping pattern="__init__" type="Python" />
       <removed_mapping ext="tsv" type="TSV" />
       <mapping pattern="review_appstorereview" type="YAML" />
+      <mapping pattern="source_users" type="YAML" />
       <mapping pattern="source_review_appstoreviewhistory" type="YAML" />
       <removed_mapping ext="groovy" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
