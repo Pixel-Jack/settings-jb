@@ -1,115 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
-    <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/Documents/TextMe/textme-webapp/textme/message/views.py" timestamp="1533329405729">
-        <mark key="'" line="65" column="75" />
-        <mark key="[" line="64" column="27" />
-        <mark key="]" line="64" column="7" />
-        <mark key="^" line="64" column="7" />
-        <mark key="." line="64" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/DataDojo2/demande-moi-des-films/app/chatbot.py" timestamp="1504635481618">
-        <mark key="[" line="30" column="102" />
-        <mark key="]" line="30" column="101" />
-        <mark key="." line="30" column="101" />
-        <mark key="^" line="30" column="101" />
-      </file>
-      <file name="$USER_HOME$/Documents/TextMe/textme-webapp/docker-compose.yml" timestamp="1533336707505">
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="8" column="31" />
-        <mark key="." line="8" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/DataDojo2/demande-moi-des-films/app/recommendation.py" timestamp="1504641348748">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="75" column="20" />
-      </file>
-      <file name="/Django Console" timestamp="1526604424568">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/DataDojo2/demande-moi-des-films/app/User.py" timestamp="1504641113619">
-        <mark key="[" line="9" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/TextMe/textme-webapp/textme/promos/batch/utils.py" timestamp="1526604554117">
-        <mark key="[" line="207" column="12" />
-        <mark key="]" line="207" column="13" />
-        <mark key="." line="207" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/TextMe/textme-webapp/textme/scheduledTask/tests/test_for_BatchFactory.py" timestamp="1528420420213">
-        <mark key="[" line="68" column="21" />
-        <mark key="]" line="68" column="23" />
-        <mark key="." line="68" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/OpenVoices/python_scripts/sort_audio_speech_by_emotions.py" timestamp="1544536780102">
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="55" />
-        <mark key="." line="20" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/Cours IA/Puissance4/player.py" timestamp="1504774786907">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="2" column="7" />
-        <mark key="^" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="63" column="75" filename="$USER_HOME$/Documents/TextMe/textme-webapp/textme/message/views.py" />
-      <jump line="22" column="54" filename="$USER_HOME$/Documents/OpenVoices/python_scripts/sort_audio_speech_by_emotions.py" />
-    </jumps>
-    <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgREpBTkdPX1NFVFRJTkdTX01PRFVMRTogJ3RleHRtZS5zZXR0aW5ncy5sb2NhbCcK</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>textme</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmdldF91c2VyX25vcm0odXNlcl9hKSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmdldF91c2VyX25vcm0odXNlcl9hKSkK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgp</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgcmF0aW5nc1RvSWRMaXN0KHJhdGluZ3MpOgogICAgICAgIGxpc3QgPSBbXQogICAgICAgIGZvciBlIGluIHJhdGluZ3M6CiAgICAgICAgICAgIGxpc3QuYXBwZW5kKGUuaWQpCiAgICAgICAgcmV0dXJuIChsaXN0KQ==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgZ29vZFJhdGluZ19h</text>
-      </register>
-      <register name="7" type="4">
-        <text>n
-        nb_neutralRate = user.neutral_ratings.len</text>
-      </register>
-      <register name=":" type="4">
-        <text>wq</text>
-      </register>
-      <register name="-" type="4">
-        <text>textme</text>
-      </register>
-    </registers>
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search />
-      <history-cmd>
-        <entry>dw</entry>
-        <entry>dd</entry>
-        <entry>wd</entry>
-        <entry>wq</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="false" />
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="true" />
     </editor>
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
