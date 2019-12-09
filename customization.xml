@@ -5,39 +5,11 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ShowUsages" is_action="true" action_type="-1" position="6">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Cmd key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ToggleLineBreakpoint" is_action="true" action_type="-1" position="4">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Cmd key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ToggleBookmark" is_action="true" action_type="-1" position="3">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Cmd key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Debug" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <path value="Touchbar Run/Debug Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Alt key" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Back" is_action="true" action_type="1" position="0">
@@ -51,20 +23,6 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="InspectCode" is_action="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Alt+Cmd key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ImportTests" is_action="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Main menu" />
-      <path value="Run" />
-      <path value="group.Import Test Results" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Forward" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -76,20 +34,6 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="EditSourceInNewWindow" is_action="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Alt key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CodeCleanup" is_action="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Alt+Cmd key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="1" position="2">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -102,81 +46,11 @@
       <path value="Optional Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="EditorScrollTop" is_action="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Alt key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Alt+Cmd key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Git.ResolveConflicts" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <path value="Optional Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="EditorScrollBottom" is_action="true" action_type="1" position="3">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Alt key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CopyReference" is_action="true" action_type="1" position="3">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Cmd key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="GotoNextError" is_action="true" action_type="1" position="3">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Alt+Cmd key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CopyAsPlainText" is_action="true" action_type="1" position="4">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Cmd key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="GotoPreviousError" is_action="true" action_type="1" position="4">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Alt+Cmd key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CopyAsRichText" is_action="true" action_type="1" position="5">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Cmd key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CopyPaths" is_action="true" action_type="1" position="6">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Cmd key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="EditorPasteSimple" is_action="true" action_type="1" position="8">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Cmd key" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="EditorScrollTop" icon="$USER_HOME$/Documents/touchBarJetBrain/allUp@2x_dark.png" />
