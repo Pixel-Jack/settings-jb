@@ -10,7 +10,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="newReactC" value="import React from 'react';&#10;&#10;class $NAME_CLASS$ extends React.PureComponent {&#10;    render() {&#10;        return(&#10;            $RENDER$&#10;        );&#10;    }&#10;}&#10;&#10;export default $NAME_CLASS$;" description="create à new react component class" toReformat="false" toShortenFQNames="true">
+  <template name="newReactC" value="import React from 'react';&#10;&#10;class $NAME_CLASS$ extends React.Component {&#10;    render() {&#10;        return(&#10;            $RENDER$&#10;        );&#10;    }&#10;}&#10;&#10;export default $NAME_CLASS$;" description="create à new react component class" toReformat="false" toShortenFQNames="true">
     <variable name="NAME_CLASS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="RENDER" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -33,6 +33,12 @@
     <variable name="STATE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="pr" value="print $VALEUR$;" description="print" toReformat="false" toShortenFQNames="true">
+    <variable name="VALEUR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
     </context>
   </template>
 </templateSet>

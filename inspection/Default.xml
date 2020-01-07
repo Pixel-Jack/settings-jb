@@ -1,3 +1,18 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="ignoredErrors">
+      <list>
+        <option value="E266" />
+      </list>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="ignoredIdentifiers">
+      <list>
+        <option value="scripts.refresh_reviews.config" />
+        <option value="scripts_python.tests.test_refresh_reviews.feedis_sources" />
+      </list>
+    </option>
+  </inspection_tool>
 </profile>
