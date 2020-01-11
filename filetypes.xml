@@ -12,6 +12,7 @@
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="ret" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-neo4j" type="PLAIN_TEXT" />
       <mapping pattern=".venv" type="PLAIN_TEXT" />
       <mapping pattern="LightInMotion" type="PLAIN_TEXT" />
       <mapping pattern="batch_campaign_transit" type="PLAIN_TEXT" />
