@@ -2,46 +2,50 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="Dockerfile_neo4j" type="PLAIN_TEXT" />
-      <mapping pattern="hello" type="PLAIN_TEXT" />
-      <mapping pattern="chromedriver" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="ret" type="PLAIN_TEXT" />
-      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
-      <mapping pattern="sites" type="PLAIN_TEXT" />
+      <mapping pattern="root" type="PLAIN_TEXT" />
+      <mapping pattern="venv" type="PLAIN_TEXT" />
+      <mapping pattern="authtoken_token.yaml" type="PLAIN_TEXT" />
       <mapping pattern="scheduled_campaign.yaml" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_neo4j" type="PLAIN_TEXT" />
+      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern="env" type="PLAIN_TEXT" />
+      <mapping pattern="ret" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-neo4j" type="PLAIN_TEXT" />
+      <mapping pattern=".venv" type="PLAIN_TEXT" />
       <mapping pattern="LightInMotion" type="PLAIN_TEXT" />
       <mapping pattern="batch_campaign_transit" type="PLAIN_TEXT" />
-      <mapping pattern="venv" type="PLAIN_TEXT" />
-      <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
-      <mapping pattern="root" type="PLAIN_TEXT" />
-      <mapping pattern="id_rsa_2" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-neo4j" type="PLAIN_TEXT" />
-      <mapping pattern="authtoken_token.yaml" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern="batch_campaign_apps" type="PLAIN_TEXT" />
       <mapping pattern=".env.blank" type="PLAIN_TEXT" />
-      <mapping pattern=".venv" type="PLAIN_TEXT" />
-      <mapping pattern="env" type="PLAIN_TEXT" />
-      <mapping ext="cf" type="PLAIN_TEXT" />
+      <mapping pattern="id_rsa_2" type="PLAIN_TEXT" />
+      <mapping pattern="hello" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="batch_campaign_apps" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="chromedriver" type="PLAIN_TEXT" />
+      <mapping pattern="sites" type="PLAIN_TEXT" />
+      <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
-      <mapping ext="tasks" type="PLAIN_TEXT" />
-      <mapping ext="cer" type="PLAIN_TEXT" />
-      <mapping ext="err" type="PLAIN_TEXT" />
-      <mapping ext="pip" type="PLAIN_TEXT" />
+      <mapping ext="cf" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping ext="in" type="PLAIN_TEXT" />
-      <mapping ext="dashboard2" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="dashboard2" type="PLAIN_TEXT" />
+      <mapping ext="err" type="PLAIN_TEXT" />
+      <mapping ext="tasks" type="PLAIN_TEXT" />
+      <mapping ext="pip" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="source_review_appstoreviewhistory" type="YAML" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="FeedisPagination" type="Python" />
+      <mapping pattern="toErase" type="Python" />
+      <mapping pattern="__init__" type="Python" />
       <mapping pattern="review_appstorereview" type="YAML" />
       <mapping pattern="source_users" type="YAML" />
+      <mapping pattern="source_review_appstoreviewhistory" type="YAML" />
       <removed_mapping ext="groovy" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
@@ -50,9 +54,6 @@
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping pattern="FeedisPagination" type="Python" />
-      <mapping pattern="__init__" type="Python" />
-      <mapping pattern="toErase" type="Python" />
     </extensionMap>
   </component>
 </application>
