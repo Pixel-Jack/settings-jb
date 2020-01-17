@@ -8,6 +8,7 @@
       <mapping pattern="scheduled_campaign.yaml" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_neo4j" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_ai_language" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="ret" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
