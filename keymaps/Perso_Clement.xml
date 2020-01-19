@@ -126,6 +126,9 @@
   <action id="EditorToggleColumnMode">
     <keyboard-shortcut first-keystroke="meta alt comma" />
   </action>
+  <action id="EslintImportCodeStyle">
+    <keyboard-shortcut first-keystroke="meta alt semicolon" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
@@ -152,6 +155,9 @@
   <action id="GotoTest" />
   <action id="Images.Editor.ToggleGrid" />
   <action id="Images.ShowThumbnails" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="meta alt semicolon" />
+  </action>
   <action id="Macro.warn_test">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
