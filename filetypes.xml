@@ -8,6 +8,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="ret" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="sites" type="PLAIN_TEXT" />
       <mapping pattern="scheduled_campaign.yaml" type="PLAIN_TEXT" />
       <mapping pattern="LightInMotion" type="PLAIN_TEXT" />
@@ -22,7 +23,6 @@
       <mapping pattern="batch_campaign_apps" type="PLAIN_TEXT" />
       <mapping pattern=".env.blank" type="PLAIN_TEXT" />
       <mapping pattern=".venv" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping ext="cf" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
