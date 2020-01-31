@@ -12,19 +12,19 @@
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="sites" type="PLAIN_TEXT" />
       <mapping pattern="scheduled_campaign.yaml" type="PLAIN_TEXT" />
-      <mapping pattern="LightInMotion" type="PLAIN_TEXT" />
       <mapping pattern="batch_campaign_transit" type="PLAIN_TEXT" />
       <mapping pattern="venv" type="PLAIN_TEXT" />
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="root" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa_2" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-neo4j" type="PLAIN_TEXT" />
+      <mapping pattern="LightInMotion" type="PLAIN_TEXT" />
       <mapping pattern="authtoken_token.yaml" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-neo4j" type="PLAIN_TEXT" />
       <mapping pattern="batch_campaign_apps" type="PLAIN_TEXT" />
       <mapping pattern=".env.blank" type="PLAIN_TEXT" />
       <mapping pattern=".venv" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping ext="cf" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
