@@ -8,6 +8,7 @@
       <mapping pattern="venv" type="PLAIN_TEXT" />
       <mapping pattern="authtoken_token.yaml" type="PLAIN_TEXT" />
       <mapping pattern="scheduled_campaign.yaml" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="celery" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
