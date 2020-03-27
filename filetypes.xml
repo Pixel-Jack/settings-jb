@@ -18,6 +18,7 @@
       <mapping pattern="logrotate" type="PLAIN_TEXT" />
       <mapping pattern="batch_campaign_transit" type="PLAIN_TEXT" />
       <mapping pattern=".env.blank" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess." type="PLAIN_TEXT" />
       <mapping pattern="id_rsa_2" type="PLAIN_TEXT" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
