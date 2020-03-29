@@ -8,7 +8,6 @@
       <mapping pattern="venv" type="PLAIN_TEXT" />
       <mapping pattern="scheduled_campaign.yaml" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
-      <mapping pattern="sites" type="PLAIN_TEXT" />
       <mapping pattern="celery" type="PLAIN_TEXT" />
       <mapping pattern="authtoken_token.yaml" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
@@ -20,6 +19,7 @@
       <mapping pattern="batch_campaign_transit" type="PLAIN_TEXT" />
       <mapping pattern=".env.blank" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa_2" type="PLAIN_TEXT" />
+      <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="gunicorn" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_neo4j" type="PLAIN_TEXT" />
@@ -28,7 +28,7 @@
       <mapping pattern="ret" type="PLAIN_TEXT" />
       <mapping pattern="chromedriver" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="hello" type="PLAIN_TEXT" />
+      <mapping pattern="sites" type="PLAIN_TEXT" />
       <mapping pattern="LightInMotion" type="PLAIN_TEXT" />
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
