@@ -1,0 +1,8 @@
+<templateSet group="ReactNativeClement">
+  <template name="lgt" value="console.tron.log($EN$)" description="console log reactotron" toReformat="false" toShortenFQNames="true">
+    <variable name="EN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
