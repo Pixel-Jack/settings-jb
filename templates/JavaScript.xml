@@ -1,5 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="lg" value="console.log($MESS$); // Todo : To Remove " description="Print in the console the message" toReformat="false" toShortenFQNames="true">
+  <template name="lg" value="console.log($MESS$); // Todo : To Remove" description="Print in the console the message" toReformat="false" toShortenFQNames="true">
     <variable name="MESS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
