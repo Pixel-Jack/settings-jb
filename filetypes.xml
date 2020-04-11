@@ -6,24 +6,24 @@
       <mapping pattern="Dockerfile_ai_language" type="Dockerfile" />
       <mapping pattern="root" type="PLAIN_TEXT" />
       <mapping pattern="venv" type="PLAIN_TEXT" />
+      <mapping pattern="authtoken_token.yaml" type="PLAIN_TEXT" />
       <mapping pattern="scheduled_campaign.yaml" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_neo4j" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="celery" type="PLAIN_TEXT" />
-      <mapping pattern="authtoken_token.yaml" type="PLAIN_TEXT" />
       <mapping pattern="aws_config" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-neo4j" type="PLAIN_TEXT" />
-      <mapping pattern=".htaccess." type="PLAIN_TEXT" />
       <mapping pattern=".venv" type="PLAIN_TEXT" />
       <mapping pattern="logrotate" type="PLAIN_TEXT" />
       <mapping pattern="batch_campaign_transit" type="PLAIN_TEXT" />
       <mapping pattern=".env.blank" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess." type="PLAIN_TEXT" />
       <mapping pattern="id_rsa_2" type="PLAIN_TEXT" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="gunicorn" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile_neo4j" type="PLAIN_TEXT" />
       <mapping pattern="batch_campaign_apps" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="ret" type="PLAIN_TEXT" />
@@ -49,6 +49,9 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="FeedisPagination" type="Python" />
+      <mapping pattern="toErase" type="Python" />
+      <mapping pattern="__init__" type="Python" />
       <mapping pattern="review_appstorereview" type="YAML" />
       <mapping pattern="source_users" type="YAML" />
       <mapping pattern="source_review_appstoreviewhistory" type="YAML" />
@@ -60,9 +63,6 @@
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping pattern="FeedisPagination" type="Python" />
-      <mapping pattern="__init__" type="Python" />
-      <mapping pattern="toErase" type="Python" />
     </extensionMap>
   </component>
 </application>
