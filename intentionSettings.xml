@@ -9,5 +9,6 @@
     <ignoreAction name="JavaScript/Conditional Operator/Flip If" />
     <ignoreAction name="JavaScript/Control Flow/Remove Braces" />
     <ignoreAction name="Language Injection/Inject language or reference" />
+    <ignoreAction name="JavaScript/Replace with indexer access" />
   </component>
 </application>
