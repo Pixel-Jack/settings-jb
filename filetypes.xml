@@ -16,6 +16,7 @@
       <mapping pattern="Dockerfile-neo4j" type="PLAIN_TEXT" />
       <mapping pattern=".venv" type="PLAIN_TEXT" />
       <mapping pattern="logrotate" type="PLAIN_TEXT" />
+      <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping pattern="batch_campaign_transit" type="PLAIN_TEXT" />
       <mapping pattern=".env.blank" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess." type="PLAIN_TEXT" />
@@ -43,6 +44,7 @@
       <mapping ext="tasks" type="PLAIN_TEXT" />
       <mapping ext="pip" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
