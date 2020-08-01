@@ -26,8 +26,8 @@
       <mapping pattern=".htaccess." type="PLAIN_TEXT" />
       <mapping pattern="batch_campaign_apps" type="PLAIN_TEXT" />
       <mapping pattern=".env.blank" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="sites" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="LightInMotion" type="PLAIN_TEXT" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
@@ -43,8 +43,8 @@
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
-      <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="pip" type="PLAIN_TEXT" />
+      <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
