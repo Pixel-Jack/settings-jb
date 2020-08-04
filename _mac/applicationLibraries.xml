@@ -1,5 +1,17 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/react" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react-dom" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/styled-components" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="Python 2.7.10 virtualenv at ~/virtualEnv/datadogVEnv interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/virtualEnv/datadogVEnv/lib/python2.7" />
