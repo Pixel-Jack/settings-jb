@@ -1,4 +1,4 @@
-<templateSet group="PersoClement">
+<templateSet group="ReactClement">
   <template name="%" value="&lt;%$ELEMENT$ %&gt;" description="Code ejs" toReformat="false" toShortenFQNames="true">
     <variable name="ELEMENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -39,6 +39,13 @@
     <variable name="VALEUR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="sty" value="export const $NAME$ = styled($TYPE$)`&#10;  $END$&#10;`;" description="create styled component const" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
 </templateSet>

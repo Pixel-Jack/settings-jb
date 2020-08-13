@@ -211,6 +211,7 @@
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="ServiceView.ShowServices" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
