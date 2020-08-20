@@ -17,5 +17,6 @@
     <mask>*.yaml</mask>
     <mask>*.py</mask>
     <mask>test*.py</mask>
+    <mask>index.py</mask>
   </component>
 </application>
