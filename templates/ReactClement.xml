@@ -52,4 +52,11 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="sgw" value="&#10;export function* $FUNCTION$({ $PARAMS$ }) {&#10;  if (yield call(sendingRequest, $FUNCTION$, true)) {&#10;    try {&#10;      $END$&#10;    } catch (error) {&#10;      yield call(handleErrors, error);&#10;    } finally {&#10;      yield call(sendingRequest, $FUNCTION$, false);&#10;    }&#10;  }&#10;}&#10;&#10;export function* $FUNCTION$Watcher() {&#10;  yield takeLatest(Types.$FUNCTION$, $FUNCTION$);&#10;}&#10;" description="create saga and watcher" toReformat="false" toShortenFQNames="true">
+    <variable name="FUNCTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
