@@ -16,5 +16,6 @@
     <mask>test*.py</mask>
     <mask>index.py</mask>
     <mask>*.js</mask>
+    <mask>ser*.py</mask>
   </component>
 </application>
