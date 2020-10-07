@@ -9,8 +9,9 @@
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="PT Mono" />
-    <option name="LINE_SPACING" value="1.3" />
+    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_FAMILY" value="Ubuntu Mono derivative Powerline" />
+    <option name="LINE_SPACING" value="1.5" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
