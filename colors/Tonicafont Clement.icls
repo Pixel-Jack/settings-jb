@@ -3,7 +3,7 @@
     <property name="created">2020-10-08T18:21:48</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2020-10-08T18:30:51</property>
+    <property name="modified">2020-10-13T10:12:41</property>
     <property name="originalScheme">Tonicafont copy</property>
   </metaInfo>
   <colors>
@@ -1198,6 +1198,7 @@
         <option name="FOREGROUND" value="8888c6" />
       </value>
     </option>
+    <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="7f57ff" />
