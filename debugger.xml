@@ -62,7 +62,9 @@
     </filter>
   </component>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <show-values-inline>false</show-values-inline>
+    </data-views>
     <general />
     <debuggers>
       <debugger id="javascript">
@@ -72,7 +74,7 @@
       </debugger>
       <debugger id="python">
         <configuration>
-          <option name="watchReturnValues" value="true" />
+          <option name="simplifiedView" value="false" />
         </configuration>
       </debugger>
     </debuggers>
