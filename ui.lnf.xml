@@ -7,6 +7,7 @@
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="22" />
     <option name="SHOW_CLOSE_BUTTON" value="false" />
+    <option name="SHOW_INPLACE_COMMENTS" value="true" />
     <option name="SHOW_TABS_TOOLTIPS" value="false" />
   </component>
 </application>
