@@ -50,10 +50,8 @@
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="__init__" type="Python" />
-      <mapping pattern="toErase" type="Python" />
-      <mapping pattern="FeedisPagination" type="Python" />
       <mapping pattern="source_users" type="YAML" />
       <mapping pattern="review_appstorereview" type="YAML" />
       <mapping pattern="source_review_appstoreviewhistory" type="YAML" />
@@ -65,6 +63,9 @@
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern="FeedisPagination" type="Python" />
+      <mapping pattern="__init__" type="Python" />
+      <mapping pattern="toErase" type="Python" />
     </extensionMap>
   </component>
 </application>
