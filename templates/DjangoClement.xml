@@ -73,4 +73,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="ttt" value="# Todo: To Remove&#10;import logging&#10;import time&#10;&#10;start = time.time()  # Todo: To Remove&#10;logging.warning(time.time() - start)  # Todo: To Remove" description="import time profiling tools" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
