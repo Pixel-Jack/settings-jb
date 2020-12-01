@@ -5,54 +5,54 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="impR" value="import React from 'react';" description="import React" toReformat="false" toShortenFQNames="true">
+  <template name="impR" value="import React from 'react';" description="import React" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="newReactC" value="import React from 'react';&#10;&#10;class $NAME_CLASS$ extends React.Component {&#10;    render() {&#10;        return(&#10;            $RENDER$&#10;        );&#10;    }&#10;}&#10;&#10;export default $NAME_CLASS$;" description="create à new react component class" toReformat="false" toShortenFQNames="true">
+  <template name="newReactC" value="import React from 'react';&#10;&#10;class $NAME_CLASS$ extends React.Component {&#10;    render() {&#10;        return(&#10;            $RENDER$&#10;        );&#10;    }&#10;}&#10;&#10;export default $NAME_CLASS$;" description="create à new react component class" toReformat="true" toShortenFQNames="true">
     <variable name="NAME_CLASS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="RENDER" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="constR" value="constructor(props) {&#10;    super(props);&#10;    $CODE$&#10;}" description="constructor ReactJS" toReformat="false" toShortenFQNames="true">
+  <template name="constR" value="constructor(props) {&#10;    super(props);&#10;    $CODE$&#10;}" description="constructor ReactJS" toReformat="true" toShortenFQNames="true">
     <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="bindR" value="this.$NAME_FUNCTION$ = this.$NAME_FUNCTION$.bind(this);" description="bind to this reactJS" toReformat="false" toShortenFQNames="true">
+  <template name="bindR" value="this.$NAME_FUNCTION$ = this.$NAME_FUNCTION$.bind(this);" description="bind to this reactJS" toReformat="true" toShortenFQNames="true">
     <variable name="NAME_FUNCTION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="tsS" value="this.setState=($STATE$);" description="set State of a react component" toReformat="false" toShortenFQNames="true">
+  <template name="tsS" value="this.setState=($STATE$);" description="set State of a react component" toReformat="true" toShortenFQNames="true">
     <variable name="STATE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="sty" value="export const $NAME$ = styled($TYPE$)`&#10;  $END$&#10;`;" description="create styled component const" toReformat="false" toShortenFQNames="true">
+  <template name="sty" value="export const $NAME$ = styled($TYPE$)`&#10;  $END$&#10;`;" description="create styled component const" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="tp" value="this.props.$END$" description="get from props" toReformat="false" toShortenFQNames="true">
+  <template name="tp" value="this.props.$END$" description="get from props" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ts" value="this.state.$END$" description="get from state" toReformat="false" toShortenFQNames="true">
+  <template name="ts" value="this.state.$END$" description="get from state" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="sgw" value="&#10;export function* $FUNCTION$({ $PARAMS$ }) {&#10;  if (yield call(sendingRequest, $FUNCTION$, true)) {&#10;    try {&#10;      $END$&#10;    } catch (error) {&#10;      yield call(handleErrors, error);&#10;    } finally {&#10;      yield call(sendingRequest, $FUNCTION$, false);&#10;    }&#10;  }&#10;}&#10;&#10;export function* $FUNCTION$Watcher() {&#10;  yield takeLatest(Types.$FUNCTION$, $FUNCTION$);&#10;}&#10;" description="create saga and watcher" toReformat="false" toShortenFQNames="true">
+  <template name="sgw" value="&#10;export function* $FUNCTION$({ $PARAMS$ }) {&#10;  if (yield call(sendingRequest, $FUNCTION$, true)) {&#10;    try {&#10;      $END$&#10;    } catch (error) {&#10;      yield call(handleErrors, error);&#10;    } finally {&#10;      yield call(sendingRequest, $FUNCTION$, false);&#10;    }&#10;  }&#10;}&#10;&#10;export function* $FUNCTION$Watcher() {&#10;  yield takeLatest(Types.$FUNCTION$, $FUNCTION$);&#10;}&#10;" description="create saga and watcher" toReformat="true" toShortenFQNames="true">
     <variable name="FUNCTION" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
