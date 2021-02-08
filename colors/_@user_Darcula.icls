@@ -3,10 +3,24 @@
     <property name="created">2020-11-02T19:01:33</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-11-05T10:04:50</property>
+    <property name="modified">2021-02-05T10:55:20</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_IDENTIFIER">
+      <value />
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="289b97" />
+      </value>
+    </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="2675aa" />
