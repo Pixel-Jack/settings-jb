@@ -10,6 +10,9 @@
   <Python>
     <option name="NEW_LINE_AFTER_COLON" value="true" />
   </Python>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <indentOptions>
