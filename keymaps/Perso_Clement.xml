@@ -181,7 +181,7 @@
   <action id="NextEditorTab" />
   <action id="NextProjectWindow" />
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl meta x" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="NextWindow" />
   <action id="PreviousDiff">
@@ -189,7 +189,7 @@
   </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl meta z" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="QuickChangeScheme" />
   <action id="QuickImplementations">
