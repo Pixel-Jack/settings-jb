@@ -6,6 +6,7 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
   </action>
+  <action id="ActivateCommitToolWindow" />
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
@@ -20,13 +21,13 @@
   <action id="ActivateFavoritesToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
-  <action id="ActivateFindToolWindow">
-    <keyboard-shortcut first-keystroke="meta 3" />
-    <keyboard-shortcut first-keystroke="meta exclamation_mark" />
-  </action>
+  <action id="ActivateFindToolWindow" />
   <action id="ActivateMessagesToolWindow" />
   <action id="ActivateMongoExplorerToolWindow">
     <keyboard-shortcut first-keystroke="meta right_parenthesis" />
+  </action>
+  <action id="ActivateProblemsViewToolWindow">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
@@ -42,14 +43,14 @@
   </action>
   <action id="ActivateSciViewToolWindow">
     <keyboard-shortcut first-keystroke="meta circumflex" />
-    <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
+  <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
   <action id="ActivateTODOToolWindow">
-    <keyboard-shortcut first-keystroke="meta 6" />
     <keyboard-shortcut first-keystroke="meta #10000a7" />
+    <keyboard-shortcut first-keystroke="meta 6" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta quotedbl" />
@@ -68,6 +69,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
+  <action id="ChangesView.Move" />
   <action id="CheckinProject" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift meta k" />
@@ -79,7 +81,10 @@
     <keyboard-shortcut first-keystroke="meta f8" />
   </action>
   <action id="Console.TableResult.DeleteColumns" />
+  <action id="Console.TableResult.SetDefault" />
   <action id="DatabaseView.SqlGenerator" />
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
   <action id="Diff.SelectedChange" />
   <action id="Diff.ShowDiff" />
   <action id="EditorAddOrRemoveCaret">
@@ -110,6 +115,8 @@
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
   </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
   <action id="EditorNextWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift alt z" />
   </action>
@@ -155,9 +162,13 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="meta alt semicolon" />
   </action>
+  <action id="JupyterSelectCellAboveAction" />
+  <action id="JupyterSelectCellBelowAction" />
   <action id="Macro.warn_test">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
@@ -167,13 +178,16 @@
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="ctrl meta n" />
   </action>
+  <action id="NextEditorTab" />
   <action id="NextProjectWindow" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
+  <action id="NextWindow" />
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift ctrl meta n" />
   </action>
+  <action id="PreviousEditorTab" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
@@ -230,6 +244,9 @@
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
   </action>
+  <action id="Tool_External Tools_Blake">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift meta alt s" />
   </action>
@@ -238,6 +255,7 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="UsageView.Remove" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.Push" />
   <action id="Vcs.UpdateProject" />
   <action id="ViewBreakpoints">
