@@ -1,6 +1,5 @@
 <templateSet group="Django">
   <template name="block" value="{% block $BLOCK$ %}$END${% endblock %}" description="{% block %} / {% endblock %}" toReformat="false" toShortenFQNames="true">
     <variable name="BLOCK" expression="djangoBlock()" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
